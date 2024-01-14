@@ -1,0 +1,1 @@
+Olá, esse arquivo será utilizado para aprendermos a utilizar o git e github
